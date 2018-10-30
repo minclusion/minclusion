@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /img/
+Disallow: /team/
+Disallow: LICENSE
+Disallow: CNAME

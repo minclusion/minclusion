@@ -1,0 +1,51 @@
+/* hackathon styling */
+#themes {
+  table-layout:fixed;
+  width:100%;
+  border-spacing:10px ;
+  border-collapse: collapse;
+}
+
+tr {
+  border-collapse:collapse;
+  cursor: pointer;
+}
+ 
+.team {
+ margin-left: 105px;
+ width: 70%;
+}
+.contain
+{
+width: 400px; 
+}
+ 
+td {
+  width:33%;
+  padding-right: 10px;
+}
+
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+#footer .container, #copyright .container {
+  padding-left: 0;
+}
+
+.teamCaption
+{ 
+ text-align: center;
+}
+
+.lang-ar {
+  text-align: right !important;
+  direction: rtl;
+}

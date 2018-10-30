@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Integration with mobile - Minclusion</title>
+    <link>http://minclusion.org/en/blog/index.xml</link>
+    <description>Recent content in Blogs on Integration with mobile - Minclusion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2016 - 2018, Chalmers University of Technology</copyright>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://minclusion.org/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Final seminar and mingle</title>
+      <link>http://minclusion.org/en/blog/final/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/final/</guid>
+      <description>&lt;p&gt;October 24, 2018 we held a closing seminar for persons we met during the project. We presented results from our studies and the different steps in the development of &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.minclusion.iteration1&#34;&gt; a language learning app &lt;/a&gt; that we developed for newly arrived Arabic speakers learning Swedish.
+After the presentation, the participants could test the app and also taste a buffet of Arabic food inspired from the Middle East in collaboration with the organization Zeryab.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Swedish through cooking</title>
+      <link>http://minclusion.org/en/blog/cookandlearn/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/cookandlearn/</guid>
+      <description>&lt;p&gt;Lately, we have developed a new app feature called Cook &amp;amp; Learn, where the user can learn Swedish by cooking Arabic and Swedish dishes.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with the Palestinian cultural centre Bab Al-Shams, we had the opportunity to test the app with about 30 people. After enjoying a buffet with Arabic dishes, the participants got to try out one of the recipes in the app, Swedish chocolate balls (chokladbollar) rolled in coconut flakes.&lt;/p&gt;
+
+&lt;p&gt;The idea to Cook &amp;amp; Learn was born by participants at the hackathon we arranged last spring, but this was the first time it was tested by real users. It was a very successful event, and we hope it&amp;rsquo;s the beginning of an app that could bring together Swedish and Arabic speaking people through a common interest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study with SFI</title>
+      <link>http://minclusion.org/en/blog/sfi/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/sfi/</guid>
+      <description>&lt;p&gt;We have now started our spring field studies with SFI, Folkuniversitetet. In our first meeting, students and teachers downloaded our app and explored the pronunciation of Swedish vowels, which can be quite difficult for learners. We are looking forward to collaborating and hearing more about their user experiences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshops and EUROCALL</title>
+      <link>http://minclusion.org/en/blog/eurocall/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/eurocall/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The Minclusion project is up and running after the summer holidays. 15 August, we started our collaboration with RISE Interactive supported by Chalmers Innovation. We will host a series of design workshops during the autumn where we will invite different newly arrived and stakeholders. Our first workshops will be focusing on the medical sector.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Minclusion was represented at the EUROCALL conference in Southampton with two presentations, one in the MALL SIG symposium and one paper presentation. The EUROCALL conference is an excellent network for research and development within computers and language learning and it was a very nice and rewarding event.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img width=&#34;100%&#34; src=&#34;http://minclusion.org/img/Eurocall2.jpg&#34;&gt;&lt;/img&gt;
+&lt;figcaption style=&#34;text-align: center;&#34;&gt;Nataliya Berbyuk Lindström from Minclusion presenting at the EUROCALL to presentation.&lt;/figcaption&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1st Minclusion Conference</title>
+      <link>http://minclusion.org/en/blog/conference/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/conference/</guid>
+      <description>&lt;p&gt;The Minclusion conference 12 June was a very rewarding event with over 60 participants!
+We invited a mix of researchers, developers and enthusiasts within the areas of mobile learning and migration.
+In the morning, the Minclusion team made a presentation of the work we have done so far. We have for example been engaging in a number of networking activities.
+Our research of investigating the mobile learning area and mapping the existing language and intercultural communication apps has been fruitful.
+We also presented preliminary results from our first field studies with the newly arrived Arabic-speaking migrants we have been in contact with.
+In terms of development, the first iteration of our app is ready to be tested with a group of users.
+In this iteration we have been focusing on authentic speech situations and pronunciation.
+As keynote speaker, we had the great opportunity to listen to professor Agnes Kukulska-Hulme from The Open University, UK, presenting
+“Personal challenges in social integration and inclusion”. Professor Kukulska-Hulme has experience from several projects within developing apps for migrants
+and she gave us a valuable insight on the latest research in the area. After lunch, we listened to 11 short presentations about various on-going projects,
+ which we continued to discuss during the mingle, that ended the conference.&lt;/p&gt;
+
+&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/m2UPoSxX7Hmafw&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:15px; margin-top:15px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/fU3BGGm5Upw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hack for Inclusion</title>
+      <link>http://minclusion.org/en/blog/hackathon/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/hackathon/</guid>
+      <description>&lt;p&gt;In the beginning of April, we organised a hackathon on the theme of mobile innovation for inclusion of newly arrived. Participants, with backgrounds in programming, interaction design, language technology and communication, gathered together in our premises at the Department of Applied IT and worked hard from Saturday to Sunday. The idea behind the hackathon was to find new ideas and innovative technical solutions that can support language learning and inclusion in the society for newly arrived Arabic speaking people in Sweden.&lt;/p&gt;
+
+&lt;p&gt;It was indeed inspiring to follow the ideas emerge from whiteboard drawings into interactive prototypes, and to discuss the advantages and disadvantages of the different solutions. Johan Uddståhl from the digital studio &lt;a target=&#34;_blank&#34; href=&#34;http://hublebee.se/&#34;&gt;Humblebee&lt;/a&gt; opened the hackathon by giving us some great insight into prototype development.&lt;/p&gt;
+
+&lt;p&gt;After enjoying tasty Palestinian food from Jenin grill, the hackathon ended on Sunday with presentations. We got to take part of four creative proposals for technical solutions: The app På, which helps newly arrived to find local services, practice Swedish with context specific learning material and meet locals. Laga &amp;amp; Lär, is a recipe-based language learning app, while Make Sweden Home gathers information about the asylum process, work, events, and language learning courses in one place. Finally, the app Pairents connects families with each other based on location and children&amp;rsquo;s age.&lt;/p&gt;
+
+&lt;p&gt;Since all of the ideas were promising, we have invited the teams to present their prototypes and further developments at our upcoming &lt;a target=&#34;_blank&#34; href=&#34;http://minclusion.org/pdf/JuneConf.pdf&#34;&gt;conference&lt;/a&gt; on 12 June in Gothenburg. Keynote speaker at the conference will be Agnes Kukulska-Hulme, professor at the The Open University in UK. If you have not signed up already, please send an email to &lt;a href=&#34;mailto:minklusion@gmail&#34;&gt;minklusion@gmail.com&lt;/a&gt;. Welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting at Mobile Learning Week in Paris</title>
+      <link>http://minclusion.org/en/blog/mlw/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/mlw/</guid>
+      <description>&lt;p&gt;Four persons from our team attended Mobile Learning Week, organized by UNESCO and UNHCR in Paris 20-24 March. The theme of the conference was &amp;ldquo;Education in emergencies and crises&amp;rdquo;. The week began with a two-day symposium, when Linda and Khaled presented our project and preliminary results from our first usability study.&lt;/p&gt;
+
+&lt;p&gt;For many refugees the smartphone is a lifeline and the conference discussed how mobile technologies can enable continued training. An example of a practical initiative is the competition EDUAPP4SYRIA, launched by the Norwegian government.&lt;/p&gt;
+
+&lt;p&gt;Some common themes that were highlighted in the presentations were the importance of user-centered .design, technology as a bridge to the education of women, personal contact as an equally important component as digital education, and that many refugees admittedly are used to using the phone to maintain social contact but not for educational purposes. For example, in one of the speeches Timothy Reed, from the UNED, stated that a lesson learned from previous studies was that students do not always use mobile technologies in the expected manner and that we should not forget to listen to what the refugees really need because we sometimes provide them with tools based on what we think they need.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meeting people in field studies</title>
+      <link>http://minclusion.org/en/blog/fieldstudies/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/fieldstudies/</guid>
+      <description>&lt;p&gt;This week we’ve had two interesting meetings. We went to Restad Gård where we met Inaam and Alaa who are voluntary workers in a self-organising group with and for newly arrived migrants in Sweden. They informed us about their work at this large refugee camp currently hosting 1250 asylum seekers. The group is engaging in all sorts of daily activities for the inhabitants there, from sports to language courses. We met up in their computer room to make a usability study with a little group of 14 Arabic speaking persons. They tried out an existing language learning application on phones for 15 minutes in a usability test. Afterwards we discussed what they would like to learn about Sweden and the potentials of the mobile phone as a tool for that.&lt;/p&gt;
+
+&lt;p&gt;The day after, we went to a Swedish as a Foreign Language school in Alingsås to meet more Arabic speaking migrants who had just started their first Swedish course a couple of days before. We are engaging them in a 4-week-study of another existing language learning application, where they will test functionalities. We will meet them continuously and interview them. It’s really rewarding going out on field studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lussefika with developers</title>
+      <link>http://minclusion.org/en/blog/fika/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/fika/</guid>
+      <description>&lt;p&gt;In Sweden we celebrate Lucia, the queen of light, on the 13th of December. During this day we had our first event for invited guests, around twenty people. We discussed the development of apps for learning Swedish targeting new arrived migrants. Fika = coffee/tea break and snacks in Swedish.
+Two of the persons who came were Annika Hansen, developer of the interactive language course hejsvenska, together with her colleague Christina Wingren from Komvux Malmö. Hejsvenska, which has also been launched as 10 apps for Android and iOS is already used by many students and teachers within SFI.
+Among those invited were programming students at Chalmers, who presented apps that they had developed during the autumn. They had created several interesting foreign language learning solutions for newly arrived migrants. After the presentations of the projects there was an opportunity for testing the apps and fika.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project kick-off</title>
+      <link>http://minclusion.org/en/blog/kickoff/</link>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/en/blog/kickoff/</guid>
+      <description>&lt;p&gt;Welcome, or Marhaba, to our website for the research project Integration with mobiles. This two-year-project is a collaboration between researchers at Chalmers University of Technlology and Göteborg University, financed by the Asylum, Migration and Integration Fund (AMIF). Our working is mInclusion.
+On this blog we will inform about upcoming events, seminars and workshops. We will also link to related projects and applications for language learning and integration. On the other pages you can read more about the project and about who we are. Since the project is aimed at Arabic-speaking persons in Sweden, there is also a version in Arabic.
+We are very happy to have started and look forward to the coming years!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

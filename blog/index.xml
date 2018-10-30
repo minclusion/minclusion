@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Integration med mobilen - Minclusion</title>
+    <link>http://minclusion.org/blog/index.xml</link>
+    <description>Recent content in Blogs on Integration med mobilen - Minclusion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2016 - 2018, Chalmers Tekniska Högskolan</copyright>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://minclusion.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Avslutande seminarium och mingel</title>
+      <link>http://minclusion.org/blog/final/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/final/</guid>
+      <description>&lt;p&gt;Den 24 oktober 2018 höll vi ett avslutande seminarium för samarbetspartners och personer som vi träffat under projekttiden. Vi presenterade resultat från våra studier och de olika stegen i utvecklingen av en &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.minclusion.iteration1&#34;&gt;språkapp&lt;/a&gt; som vi utvecklat för nyanlända som lär sig svenska. Efter presentationen fick deltagarna testa appen och smaka på en buffé med arabisk mat inspirerad från Mellanöstern i samarbete med organisationen Zeryab.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lära sig svenska genom matlagning</title>
+      <link>http://minclusion.org/blog/cookandlearn/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/cookandlearn/</guid>
+      <description>&lt;p&gt;På senare tid har vi utvecklat den nya app-funktionen Laga &amp;amp; Lär, där användaren kan lära sig svenska genom att laga arabiska och svenska rätter.&lt;/p&gt;
+
+&lt;p&gt;I samarbete med det palestinska kulturcentret Solens Port (Bab Al-Shams) fick vi möjlighet att testa appen med ett 30-tal personer. Under kvällen bjöds på en buffé med arabiska rätter, och efteråt fick deltagarna prova ett av recepten i appen, chokladbollar rullade i kokosflingor.&lt;/p&gt;
+
+&lt;p&gt;Idén till Laga &amp;amp; Lär föddes av deltagare på det hackathon som vi arrangerade förra våren, men detta var första gången den testades av riktiga användare. Kvällen blev mycket lyckad, och vi hoppas att det är början på en app som kan sammanföra svensk- och arabisktalande människor genom ett gemensamt intresse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studie med SFI</title>
+      <link>http://minclusion.org/blog/sfi/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/sfi/</guid>
+      <description>&lt;p&gt;I höstas kom vi i kontakt med SFI lärare från Folkuniversitetet på en av våra workshops. Nu har vi fortsatt samarbetet och kört igång fältstudier. På första mötet träffade vi några lärare och elever som laddade ner vår app och fick botanisera bland fraser och uttal. Vi ser fram emot att arbeta tillsammans under våren.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshops och EUROCALL</title>
+      <link>http://minclusion.org/blog/eurocall/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/eurocall/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Projektet är igång igen efter sommaren. Den 15 augusti började vi samarbetet med RISE Interaktive med stöd från Chalmers Innovation. Vi kommer hålla i en serie designworkshopar under hösten där vi kommer bjuda in olika nyanlända personer och aktörer som arbetar med nyanlända. Vår första workshop fokuserar på nyanlända inom legitimationsyrken.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Minclusionprojektet var även representerade på EUROCALL –konferensen i Southampton med två presentationer. Denna konferens är ett utmärkt tillfälle att nätverka genom att ta del av de senaste forsknings- och utvecklingstrenderna och samverka med andra inom vårt forskningsområde.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img width=&#34;100%&#34; src=&#34;http://minclusion.org/img/Eurocall2.jpg&#34;&gt;&lt;/img&gt;
+&lt;figcaption style=&#34;text-align: center;&#34;&gt;Nataliya Berbyuk Lindström från Minclusion presenterar på EUROCALL.&lt;/figcaption&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vår första konferens</title>
+      <link>http://minclusion.org/blog/conference/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/conference/</guid>
+      <description>&lt;p&gt;Projektets första Minclusion-konferensen den 12 juni var en mycket givande tillställning med över 60 deltagare!
+Vi hade bjudit in en blandning av forskare, programutvecklare och entusiaster inom områdena mobilt lärande och integration.
+På morgonen presenterade Minclusion-teamet det arbete som vi gjort hittills. Vi har exempelvis nätverkat mycket, deltagit i konferenser och seminarier.
+ Vår undersökning av forskningsområdet mobilt lärande och kartläggning av befintliga appar inom språk- och interkulturella kommunikation har varit lärorikt.
+ Vi presenterade även preliminära resultat från våra första fältstudier med nyanlända arabisktalande som vi har haft kontakt med.
+ När det gäller utveckling är den första iterationen av vår app klar att testas med en grupp användare.
+ I denna iteration har vi fokuserat på autentiska talssituationer och övning av uttal.
+Som huvudtalare hade vi möjligheten att lyssna till professor Agnes Kukulska-Hulme från The Open University i Storbritannien.
+Kukulska-Hulme har erfarenhet från flera forskningsprojekt inom utveckling av appar för integration och hon gav oss en värdefull inblick i den senaste forskningen i området. Efter lunch lyssnade vi till 11 korta presentationer om olika pågående projekt, som vi fortsatte att diskutera under minglet, som avslutade konferensdagen.&lt;/p&gt;
+
+&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/m2UPoSxX7Hmafw&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:15px; margin-top:15px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/fU3BGGm5Upw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackathon för integration</title>
+      <link>http://minclusion.org/blog/hackathon/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/hackathon/</guid>
+      <description>&lt;p&gt;I början av april organiserade vi ett hackathon på temat mobila innovationer för inkludering av nyanlända. Deltagare med bakgrund inom programmering, interaktionsdesign, språkteknologi och kommunikation, samlades i våra lokaler på Institutionen för tillämpad IT och jobbade koncentrerat från lördag till söndag. Tanken bakom detta hackathon var att hitta nya idéer och innovativa tekniska lösningar som kan stödja språkinlärning och integration i samhället för nyanlända arabisktalande personer i Sverige.&lt;/p&gt;
+
+&lt;p&gt;För oss var det verkligen inspirerande att följa idéerna från whiteboard till interaktiva prototyper och diskutera fördelar och nackdelar med deras lösningar. Vi gästades också av Johan Uddståhl från den digitala studion &lt;a target=&#34;_blank&#34; href=&#34;http://humblebee.se/&#34;&gt;Humblebee&lt;/a&gt;, som öppnade hacket genom att ge oss några goda råd att tänka på vid prototyputveckling.&lt;/p&gt;
+
+&lt;p&gt;Efter att ha avnjutit palestinsk mat från Jenin Grill, avslutades hacket på söndagen med presentationer. Vi fick ta del av fyra kreativa förslag på tekniska lösningar: Appen På, som hjälper nyanlända att hitta lokal samhällsservice, öva svenska med kontextspecifikt material och träffa svenskar. I appen, Laga &amp;amp; Lär, får användaren lära sig svenska genom recept, medan tjänsten Make Sweden Home samlar information om asylprocessen, arbete, evenemang och språkutbildningar på ett ställe. Appen Pairents förenar familjer med varandra baserat på plats och barnens ålder.&lt;/p&gt;
+
+&lt;p&gt;Eftersom vi tyckte att alla idéer var lovande har vi bjudit in grupperna att presentera sina prototyper och vidareutvecklingar på vår kommande &lt;a target=&#34;_blank&#34; href=&#34;http://minclusion.org/pdf/JuneConf.pdf&#34;&gt;konferens&lt;/a&gt; den 12 juni i Göteborg. Huvudtalare på konferensen är Agnes Kukulska-Hulme, professor vid The Open University i Storbritannien. Om du inte redan har anmält dig, så skicka ett mail till &lt;a href=&#34;mailto:minklusion@gmail&#34;&gt;minklusion@gmail.com&lt;/a&gt;. Välkommen!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>På Mobile Learning Week i Paris</title>
+      <link>http://minclusion.org/blog/mlw/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/mlw/</guid>
+      <description>&lt;p&gt;Fyra av oss åkte på Mobile Learning Week, arrangerat av UNESCO och UNHCR i Paris 20-24 mars. Årets tema för konferensen var &amp;ldquo;Education in emergencies and crises&amp;rdquo; (utbildning i nöd- och krissituationer). Veckan började med ett tvådagarssymposium, då Linda och Khaled presenterade vårt projekt och preliminära resultat från vår första användbarhetsstudie.&lt;/p&gt;
+
+&lt;p&gt;Smarttelefonen är för många flyktingar en livlina och på konferensen diskuterades hur mobila teknologier kan möjliggöra fortsatt utbildning. Ett exempel på ett praktiskt initiativ är tävlingen EDUAPP4SYRIA, lanserad av den norska regeringen.&lt;/p&gt;
+
+&lt;p&gt;Några gemensamma teman som lyftes fram i presentationerna var vikten av användarcentrerad design, teknologi som bro till utbildning för kvinnor, att den personliga kontakten är en minst lika viktig komponent som det teknologiska i digitala utbildningsinitiativ och att många flyktingar visserligen är vana att använda telefonen för att hålla social kontakt, men inte i utbildningssyfte. I en av presentationerna berättade Timothy Reed, från UNED, att en lärdom från tidigare studier var att studenter inte alltid använde mobila teknologier på det förväntade sättet. Vi får inte heller glömma att lyssna på vad flyktingar faktiskt behöver, eftersom vi ibland ger dem verktyg baserat på vad vi tror att de behöver.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vårens första fältstudier är igång</title>
+      <link>http://minclusion.org/blog/fieldstudies/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/fieldstudies/</guid>
+      <description>&lt;p&gt;Vi har startat våra fältstudier och förra veckan var vi på två intressanta ställen! Vi besökte Restad Gård där vi träffade Inaam och Alaa som är volontärer i en självorganiserande grupp med och för nyanlända i Sverige. De informerade oss om sitt arbete på detta asylboende som är Sveriges största med för närvarande 1250 asylsökande. Volontärgruppen ägnar sig åt alla möjliga dagliga aktiviteter för de boende, från sportaktiviteter till språkkurser. Vi mötte 14 arabisktalande personer för att göra en användbarhetsstudie. De fick testa en befintlig språkapplikation på mobiler under 15 minuter för att se hur de navigerade på telefonerna. Efteråt diskuterade vi vad de skulle vilja lära sig mer om Sverige och potentialen som mobiltelefonen har som verktyg för detta.&lt;/p&gt;
+
+&lt;p&gt;Dagen efter besökte vi en SFI-utbildning i Alingsås för att träffa fler arabisktalande personer som just hade nyligen börjat där. Vi tänker engagera dem i en fyraveckorsstudie där de kommer att testa funktioner i mobila applikationer. Det är verkligen givande att gå ut på fältstudier.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lussefika med apputvecklare</title>
+      <link>http://minclusion.org/blog/fika/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/fika/</guid>
+      <description>&lt;p&gt;På Lucia hade vi vårt första event. Vi var ett tjugotal personer som diskuterade utveckling av appar för att lära sig svenska riktade till nyanlända.
+Från Malmö kom Annika Hansen, utvecklare av det interaktiva språkstödet hejsvenska, tillsammans med sin kollega Christina Wingren på Komvux Malmö.
+Hejsvenska används redan av många elever och lärare inom SFI och kommer i dagarna även att lanseras som 10 st appar för Android och iOS.
+Bland de inbjudna fanns även studenter på Chalmers som under hösten gjort flera spännande språkappar för nyanlända tillsammans med studenter i interaktionsdesign.
+Efter presentationer av projekten fanns det tillfälle att fika och testa apparna. En av apparna, Ordhoppet, går redan att ladda ner från Google Play&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projektstart</title>
+      <link>http://minclusion.org/blog/kickoff/</link>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://minclusion.org/blog/kickoff/</guid>
+      <description>&lt;p&gt;Välkommen, eller marhaba, till vår webbplats för forskningsprojektet Integration med mobilen. Projektet, som kommer att pågå under två år, är ett samarbete mellan forskare på
+Chalmers tekniska högskola och Göteborgs universitet och medfinansieras av Asyl-, migrations- och integrationsfonden (AMIF). Det arbetsnamn som vi kommit fram till är mInclusion.
+Här kommer vi bland annat att informera om kommande evenemang, seminarier och workshops men även länka till relaterade projekt och appar för språkinlärning och integration.
+På de andra sidorna kan du läsa mer om projektet och om vilka vi är. Eftersom projektet riktar sig till arabisktalande finns även en version på arabiska, som också finns länkad i menyn.
+Vi är väldigt glada över att ha kommit igång och ser fram emot de kommande åren!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

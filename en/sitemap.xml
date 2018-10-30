@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/final/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/cookandlearn/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/sfi/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/eurocall/</loc>
+    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/conference/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/hackathon/</loc>
+    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/mlw/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/fieldstudies/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/about/</loc>
+    <lastmod>2017-01-10T15:26:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/team/</loc>
+    <lastmod>2017-01-10T15:26:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/press/</loc>
+    <lastmod>2017-01-10T15:26:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/fika/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/kickoff/</loc>
+    <lastmod>2016-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/blog/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://minclusion.org/en/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
